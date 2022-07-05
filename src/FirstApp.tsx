@@ -1,9 +1,14 @@
-export const FirstApp = () => {
+interface FirstAppProps {
+    title: string;
+    subtitle?: string;
+}
+
+export const FirstApp = ( { title, subtitle }: FirstAppProps ) => {
 
     return (
         <>
-            <h1>Alex</h1>
-            <p>I am a subtitle</p>
+            <h1>{ title }</h1>
+            <p>{ subtitle }</p>
         </>
     )
 }

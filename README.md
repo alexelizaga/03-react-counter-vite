@@ -7,6 +7,7 @@
 37. Fragment
 38. Printing variables in html
 39. Set css styles
+40. Props
 
 # Goog practice
 - Try allways to do functions outside functional components
