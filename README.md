@@ -10,6 +10,7 @@
 40. Props
 43. Task: CounterApp component
 44. Click event (general events)
+45. useState - Hook
 
 # Goog practice
 - Try allways to do functions outside functional components
