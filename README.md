@@ -1,4 +1,14 @@
-# Counter App
+# Javascript Tests
+
+- template string tests
+- functions tests
+- object tests
+- array tests
+- expect tests
+- promises tests
+
+
+# Commits
 
 33. Vite structure
 34. Hello world in react
@@ -18,6 +28,7 @@
 55. toEqual
 56. Test file 07-deses-arr.ts
 57. Test file 08-imp-exp.ts
+58. Test async tasks
 
 
 # Good practices
@@ -49,7 +60,7 @@
 
 ## Css
 - Atributes in alfabetic order ( shift + command/control + p)
-- (styled component in line css)[https://styled-components.com/docs/api#css]
+- [styled component in line css](https://styled-components.com/docs/api#css)
 - Nesting only pseudo elements and pseudo classes
 - Create styled components for 3 or more atributes
 - Use Global styles variables
