@@ -17,6 +17,7 @@
 54. Test file 02-template-string.ts
 55. toEqual
 56. Test file 07-deses-arr.ts
+57. Test file 08-imp-exp.ts
 
 
 # Good practices

@@ -1,6 +1,6 @@
 import { returnArray } from '../../src/base-tests/07-deses-arr';
 
-describe('Test 07-deses-arr.ts', () => {
+describe('Test 07-deses-arr', () => {
     
     test('should return a string and a number', () => {
         
