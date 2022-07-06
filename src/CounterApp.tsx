@@ -6,8 +6,6 @@ interface CounterAppProps {
 
 export const CounterApp = ({ value }: CounterAppProps) => {
 
-    console.log('render');
-
     const [ counter, setCounter ] = useState(value)
 
     const handleAdd = ( event: MouseEvent ) => {

@@ -12,6 +12,7 @@
 44. Click event (general events)
 45. useState - Hook
 46. handleSubstract y handleReset
+52. Test configuration and my first test
 
 # Goog practice
 - Try allways to do functions outside functional components
