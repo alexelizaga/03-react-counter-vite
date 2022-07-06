@@ -15,6 +15,7 @@
 52. Test configuration and my first test
 53. Jest - Expect - toBe
 54. Test file 02-template-string.ts
+55. toEqual
 
 
 # Good practices
