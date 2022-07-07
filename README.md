@@ -29,6 +29,7 @@
 56. Test file 07-deses-arr.ts
 57. Test file 08-imp-exp.ts
 58. Test async tasks
+59. Test async-await
 
 
 # Good practices
