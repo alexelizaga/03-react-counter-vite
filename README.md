@@ -30,6 +30,7 @@
 57. Test file 08-imp-exp.ts
 58. Test async tasks
 59. Test async-await
+61. Test React Components
 
 
 # Good practices
