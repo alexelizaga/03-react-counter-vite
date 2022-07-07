@@ -1,10 +1,10 @@
 interface FirstAppProps {
-    title?: string;
+    title: string;
     subtitle?: string;
     name?: string;
 }
 
-export const FirstApp = ( { title = 'No title', subtitle = 'No subtitle', name = 'Alex' }: FirstAppProps ) => {
+export const FirstApp = ( { title, subtitle = 'No subtitle', name = 'Alex' }: FirstAppProps ) => {
 
     return (
         <>
