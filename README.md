@@ -35,6 +35,7 @@
 63. Test FirstApp
 64. getByTestId and other props
 65. Screen - Testing Library
+66. Basic CounterApp Tests
 
 # Good practices
 
