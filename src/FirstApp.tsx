@@ -8,8 +8,9 @@ export const FirstApp = ( { title, subtitle = 'No subtitle', name = 'Alex' }: Fi
 
     return (
         <>
-            <h1>{ title }</h1>
+            <h1 data-testid="test-title">{ title }</h1>
             <p>{ subtitle }</p>
+            <p>{ name }</p>
             <p>{ name }</p>
         </>
     )

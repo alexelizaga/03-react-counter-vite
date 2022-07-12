@@ -2,11 +2,16 @@
 
 exports[`Test <FirstApp /> should match snapshot v1 1`] = `
 Array [
-  <h1>
+  <h1
+    data-testid="test-title"
+  >
     Hello, I am Goku
   </h1>,
   <p>
     No subtitle
+  </p>,
+  <p>
+    Alex
   </p>,
   <p>
     Alex
@@ -16,11 +21,16 @@ Array [
 
 exports[`Test <FirstApp /> should match snapshot v2 1`] = `
 <div>
-  <h1>
+  <h1
+    data-testid="test-title"
+  >
     Hello, I am Goku
   </h1>
   <p>
     No subtitle
+  </p>
+  <p>
+    Alex
   </p>
   <p>
     Alex

@@ -33,6 +33,7 @@
 61. Test React Components
 62. Test FirstApp - React Components
 63. Test FirstApp
+64. getByTestId and other props
 
 # Good practices
 
