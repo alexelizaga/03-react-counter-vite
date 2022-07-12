@@ -1,8 +1,10 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Test <FirstApp /> should match snapshot 1`] = `
+exports[`Test <FirstApp /> should match snapshot v1 1`] = `
 Array [
-  <h1 />,
+  <h1>
+    Hello, I am Goku
+  </h1>,
   <p>
     No subtitle
   </p>,
@@ -12,14 +14,16 @@ Array [
 ]
 `;
 
-exports[`Test <FirstApp /> should match snapshot v1 1`] = `
-Array [
-  <h1 />,
+exports[`Test <FirstApp /> should match snapshot v2 1`] = `
+<div>
+  <h1>
+    Hello, I am Goku
+  </h1>
   <p>
     No subtitle
-  </p>,
+  </p>
   <p>
     Alex
-  </p>,
-]
+  </p>
+</div>
 `;
