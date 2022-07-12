@@ -34,6 +34,7 @@
 62. Test FirstApp - React Components
 63. Test FirstApp
 64. getByTestId and other props
+65. Screen - Testing Library
 
 # Good practices
 
