@@ -1,14 +1,7 @@
-# Javascript Tests
 
-- template string tests
-- functions tests
-- object tests
-- array tests
-- expect tests
-- promises tests
+# CounterApp
 
-
-# Commits
+## Commits
 
 33. Vite structure
 34. Hello world in react
@@ -36,17 +29,34 @@
 64. getByTestId and other props
 65. Screen - Testing Library
 66. Basic CounterApp Tests
+67. Simulate events - Click
 
-# Good practices
+## Tests
 
-## Folders
+- template string
+- functions
+- object
+- array
+- expect()
+- promises
+- toMatchSnapshot()
+- getByText()
+- getByRole()
+- getById()
+- toBe()
+- toContain()
+- fireEvent()
+
+## Good practices
+
+### Folders
 - Space in name separate by '-', product-list
 
-## TSX VS TS
+### TSX VS TS
 - TSX when the component export JSX
 - TS when the component doesn't export JSX
 
-## Imports
+### Imports
 - React first
 - External imports alfabetic order ( shift + command/control + p)
 
@@ -54,17 +64,17 @@
 
 - Css / ... imports alfabetic order ( shift + command/control + p)
 
-## Props
+### Props
 - Separate properties and methods
 
-## Interfaces
+### Interfaces
 - First letter of the name of the interface is capital
 - No index.ts for interfaces
 - use https://quicktype.io to generate response interfaces
 - Separate properties and methods
 - NameResponse: is the name of the interface for api responses
 
-## Css
+### Css
 - Atributes in alfabetic order ( shift + command/control + p)
 - [styled component in line css](https://styled-components.com/docs/api#css)
 - Nesting only pseudo elements and pseudo classes
@@ -75,37 +85,37 @@
     .ObjetoPrincipal_objetoInterno
     .ObjetoPrincipal_objetoInterno--excepcion
 
-## Components
+### Components
 - Component starts with capital letter
 - Try allways to do functions outside functional components
 
-## Any use is forbidden
+### Any use is forbidden
 
 
-## single quote vs doble quote
+### single quote vs doble quote
 - "" Just for html
 
-## Semi-Colon
+### Semi-Colon
 - Convention to include semi-colon at the end of the lines
 
-## useEffect
+### useEffect
 - Can't be async
 - Just do one thing by useEffect
 
-## Unit test
+### Unit test
 - Unit test coverage should be at least 80%
 - One Describe per test file
 
-## Strings
+### Strings
 - Always compare strings whith toLowerCase
 - Use defines.ts / enums.ts / ... for plane text
 - Template strings instead of concatenation
 
-## Other
+### Other
 - Constants in capital letters
 
 
-# VSCode Plugins
+## VSCode Plugins
 - Auto Close Tag
 - CodeMetrics
 - CSS Module
