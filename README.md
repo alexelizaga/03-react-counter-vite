@@ -30,6 +30,7 @@
 65. Screen - Testing Library
 66. Basic CounterApp Tests
 67. Simulate events - Click
+68. Github Pages
 
 ## Tests
 
